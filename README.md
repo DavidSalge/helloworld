@@ -1,2 +1,2 @@
 # helloworld
-an attempt by DavidSalge to figure out how to utilize this platform
+a lame attempt by DavidSalge to figure out how to navigate this wilderness. I like this version better.
